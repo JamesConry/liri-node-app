@@ -7,10 +7,10 @@ Overview: The app is organized with most of the actual functionality contained i
 Instructions: start by doing "node liri.js" then depending on what action you want to do, type "concert-this" followed by a band name or artist, this will show their upcoming events by location and date. Next command is "spotify-this-song" followed by a song name, this will give you the artist, song name, link to spotify, and the album it is from. Third command is "movie-this" followed by a movie name, this will show the title of the movie, release year, IMDB rating, Metascore, country of production, language of movie, plot, and actors. The final command is "do-what-it-says" which will read in the text from random.txt and will follow the command written in there.
 
 Images: 
-![Screen shot](images\concert-this.PNG)
-![Screen shot](images\spotify-this-song.PNG)
-![Screen shot](images\movie-this.PNG)
-![Screen shot](images\do-what-it-says.PNG)
+![Screen shot](images/concert-this.PNG)
+![Screen shot](images/spotify-this-song.PNG)
+![Screen shot](images/movie-this.PNG)
+![Screen shot](images/do-what-it-says.PNG)
 
 Git Link: https://github.com/JamesConry/liri-node-app
 
